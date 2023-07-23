@@ -1,0 +1,15 @@
+{
+  "selectionColor": "#1e00ff",
+  "selectionMode": "partial",
+  "enableByDefault": true,
+  "allowExport": false,
+  "includeRuntimeLayers": true,
+  "geometryTypes": [
+    "EXTENT"
+  ],
+  "layerState": {
+    "Places_of_Interest_City_of_Toronto_cleduc_7527": {
+      "selected": true
+    }
+  }
+}
